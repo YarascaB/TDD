@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f5b7b78-9e34-4753-8afa-4d3d4697c0c6" name="Changes" comment="">
+    <list default="true" id="8f5b7b78-9e34-4753-8afa-4d3d4697c0c6" name="Changes" comment="“Caso 1: Calcular promedio con conjunto vacío (Rojo)”">
       <change beforePath="$PROJECT_DIR$/tests/testConjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/testConjunto.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,12 +34,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests in testConjunto.py.executor": "Run",
+    "Python.testConjunto.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.testConjunto">
+  <component name="RunManager" selected="Python tests.Python tests in testConjunto.py">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="KataTDD" />
       <option name="ENV_FILES" value="" />
@@ -101,8 +102,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.testConjunto" />
         <item itemvalue="Python tests.Python tests in testConjunto.py" />
+        <item itemvalue="Python.testConjunto" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +123,20 @@
       <option name="presentableId" value="Default" />
       <updated>1729019980104</updated>
     </task>
+    <task id="LOCAL-00001" summary="“Caso 1: Calcular promedio con conjunto vacío (Rojo)”">
+      <option name="closed" value="true" />
+      <created>1729021552114</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729021552114</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="“Caso 1: Calcular promedio con conjunto vacío (Rojo)”" />
+    <option name="LAST_COMMIT_MESSAGE" value="“Caso 1: Calcular promedio con conjunto vacío (Rojo)”" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
